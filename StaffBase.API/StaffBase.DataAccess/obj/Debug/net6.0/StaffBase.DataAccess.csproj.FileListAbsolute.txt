@@ -1,0 +1,17 @@
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBase.DataAccess.csproj.AssemblyReference.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBase.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBase.DataAccess.AssemblyInfoInputs.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBase.DataAccess.AssemblyInfo.cs
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBase.DataAccess.csproj.CoreCompileInputs.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\bin\Debug\net6.0\StaffBase.DataAccess.deps.json
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\bin\Debug\net6.0\StaffBase.DataAccess.runtimeconfig.json
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\bin\Debug\net6.0\StaffBase.DataAccess.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\bin\Debug\net6.0\StaffBase.DataAccess.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\bin\Debug\net6.0\StaffBase.Core.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\bin\Debug\net6.0\StaffBase.Core.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBas.0AAB0142.Up2Date
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBase.DataAccess.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\refint\StaffBase.DataAccess.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBase.DataAccess.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\StaffBase.DataAccess.genruntimeconfig.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.DataAccess\obj\Debug\net6.0\ref\StaffBase.DataAccess.dll

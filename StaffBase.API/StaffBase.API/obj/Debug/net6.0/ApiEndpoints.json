@@ -1,0 +1,188 @@
+[
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "GetEmployee",
+    "RelativePath": "api/StaffBase/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[StaffBase.Core.Models.Employee, StaffBase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/StaffBase/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "StaffBase.API.Contracts.EmployeeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "GetEmployeeCsv",
+    "RelativePath": "api/StaffBase/Employee.csv",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "GetEmployeeByOrganizationCsv",
+    "RelativePath": "api/StaffBase/Employee.csv/{organizationId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "organizationId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "GetEmployee",
+    "RelativePath": "api/StaffBase/Employee/{organizationId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "organizationId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[StaffBase.Core.Models.Employee, StaffBase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "UploadEmployeeCsv",
+    "RelativePath": "api/StaffBase/EmployeeCsv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "GetOrganizations",
+    "RelativePath": "api/StaffBase/Organizations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[StaffBase.API.Contracts.OrganizationResponse, StaffBase.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "AddOrganization",
+    "RelativePath": "api/StaffBase/Organizations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "StaffBase.API.Contracts.OrganizationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "GetDataCsv",
+    "RelativePath": "api/StaffBase/Organizations.csv",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StaffBase.API.Controllers.StaffBaseController",
+    "Method": "UploadOrganizationsCsv",
+    "RelativePath": "api/StaffBase/OrganizationsCsv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StaffBase.API.props" />
+</Project>

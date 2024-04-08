@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4DD7B1-76E3-4EB6-9215-71240A6ECA44}|StaffBase.Core\\StaffBase.Core.csproj|c:\\projects\\web\\staffbase\\staffbase.api\\staffbase.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4DD7B1-76E3-4EB6-9215-71240A6ECA44}|StaffBase.Core\\StaffBase.Core.csproj|solutionrelative:staffbase.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5EABC1-E0F2-4364-89B8-12F3CFEBE2E3}|StaffBase.Application\\StaffBase.Application.csproj|c:\\projects\\web\\staffbase\\staffbase.api\\staffbase.application\\utils\\csvprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5EABC1-E0F2-4364-89B8-12F3CFEBE2E3}|StaffBase.Application\\StaffBase.Application.csproj|solutionrelative:staffbase.application\\utils\\csvprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACAD0-0842-4239-942D-A7643A9A4EAA}|StaffBase.API\\StaffBase.API.csproj|c:\\projects\\web\\staffbase\\staffbase.api\\staffbase.api\\controllers\\staffbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AACAD0-0842-4239-942D-A7643A9A4EAA}|StaffBase.API\\StaffBase.API.csproj|solutionrelative:staffbase.api\\controllers\\staffbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4DD7B1-76E3-4EB6-9215-71240A6ECA44}|StaffBase.Core\\StaffBase.Core.csproj|c:\\projects\\web\\staffbase\\staffbase.api\\staffbase.core\\utils\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4DD7B1-76E3-4EB6-9215-71240A6ECA44}|StaffBase.Core\\StaffBase.Core.csproj|solutionrelative:staffbase.core\\utils\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D18CFB-861E-43C7-A5D4-59D2610CFAF4}|StaffBase.DataAccess\\StaffBase.DataAccess.csproj|c:\\projects\\web\\staffbase\\staffbase.api\\staffbase.dataaccess\\repositories\\staffbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D18CFB-861E-43C7-A5D4-59D2610CFAF4}|StaffBase.DataAccess\\StaffBase.DataAccess.csproj|solutionrelative:staffbase.dataaccess\\repositories\\staffbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "StaffBase.Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "StaffBase.Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:33:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvProvider.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Application\\Utils\\CsvProvider.cs",
+              "RelativeDocumentMoniker": "StaffBase.Application\\Utils\\CsvProvider.cs",
+              "ToolTip": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Application\\Utils\\CsvProvider.cs",
+              "RelativeToolTip": "StaffBase.Application\\Utils\\CsvProvider.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:10:40.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffBaseController.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.API\\Controllers\\StaffBaseController.cs",
+              "RelativeDocumentMoniker": "StaffBase.API\\Controllers\\StaffBaseController.cs",
+              "ToolTip": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.API\\Controllers\\StaffBaseController.cs",
+              "RelativeToolTip": "StaffBase.API\\Controllers\\StaffBaseController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:07:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Check.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\Utils\\Check.cs",
+              "RelativeDocumentMoniker": "StaffBase.Core\\Utils\\Check.cs",
+              "ToolTip": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\Utils\\Check.cs",
+              "RelativeToolTip": "StaffBase.Core\\Utils\\Check.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:14:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffBaseRepository.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.DataAccess\\Repositories\\StaffBaseRepository.cs",
+              "RelativeDocumentMoniker": "StaffBase.DataAccess\\Repositories\\StaffBaseRepository.cs",
+              "ToolTip": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.DataAccess\\Repositories\\StaffBaseRepository.cs",
+              "RelativeToolTip": "StaffBase.DataAccess\\Repositories\\StaffBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:58:36.337Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

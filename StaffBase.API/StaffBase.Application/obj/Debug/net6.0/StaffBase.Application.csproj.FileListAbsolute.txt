@@ -1,0 +1,17 @@
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\StaffBase.Application.csproj.AssemblyReference.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\StaffBase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\StaffBase.Application.AssemblyInfoInputs.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\StaffBase.Application.AssemblyInfo.cs
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\StaffBase.Application.csproj.CoreCompileInputs.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\bin\Debug\net6.0\StaffBase.Application.deps.json
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\bin\Debug\net6.0\StaffBase.Application.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\bin\Debug\net6.0\StaffBase.Application.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\bin\Debug\net6.0\StaffBase.Core.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\bin\Debug\net6.0\StaffBase.DataAccess.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\bin\Debug\net6.0\StaffBase.DataAccess.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\bin\Debug\net6.0\StaffBase.Core.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\StaffBas.70C21561.Up2Date
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\StaffBase.Application.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\refint\StaffBase.Application.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\StaffBase.Application.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Application\obj\Debug\net6.0\ref\StaffBase.Application.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "otukvLvqMHsB3miTsTee8q9WpxQwrbp1Vpq2nTaV0LUi65SyiUZDPAc+Rts5bdvDNHDYMvHaY6qBbuo2VOoFww==",
+  "success": true,
+  "projectFilePath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffInterface\\StaffInterface\\StaffInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mole\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+Id,Lastname,Firstname,Patronomic,Birthdate,PassportSeries,PassportNumber,OrganizationId
+"05282db0-5c7e-4b08-93db-88971cbf8ca4","Иванов","Иван","Иванович","03.10.1990 0:00:00","4509","233444","a876fe4a-9aa2-4630-a96f-112758109895"
+"05282db0-5c7e-4b08-93db-88971cbf8ca5","Петров","Петр","Петрович","10.12.1985 0:00:00","4222","567434","a876fe4a-9aa2-4630-a96f-112758109895"

@@ -1,0 +1,11 @@
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\bin\Debug\net6.0\StaffBase.Core.deps.json
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\bin\Debug\net6.0\StaffBase.Core.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\bin\Debug\net6.0\StaffBase.Core.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\obj\Debug\net6.0\StaffBase.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\obj\Debug\net6.0\StaffBase.Core.AssemblyInfoInputs.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\obj\Debug\net6.0\StaffBase.Core.AssemblyInfo.cs
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\obj\Debug\net6.0\StaffBase.Core.csproj.CoreCompileInputs.cache
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\obj\Debug\net6.0\StaffBase.Core.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\obj\Debug\net6.0\refint\StaffBase.Core.dll
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\obj\Debug\net6.0\StaffBase.Core.pdb
+C:\PROJECTS\WEB\StaffBase\StaffBase.API\StaffBase.Core\obj\Debug\net6.0\ref\StaffBase.Core.dll

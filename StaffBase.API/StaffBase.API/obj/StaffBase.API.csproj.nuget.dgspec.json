@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.API\\StaffBase.API.csproj": {}
+  },
+  "projects": {
+    "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.API\\StaffBase.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.API\\StaffBase.API.csproj",
+        "projectName": "StaffBase.API",
+        "projectPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.API\\StaffBase.API.csproj",
+        "packagesPath": "C:\\Users\\Mole\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Application\\StaffBase.Application.csproj": {
+                "projectPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Application\\StaffBase.Application.csproj"
+              },
+              "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\StaffBase.Core.csproj": {
+                "projectPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\StaffBase.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Application\\StaffBase.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Application\\StaffBase.Application.csproj",
+        "projectName": "StaffBase.Application",
+        "projectPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Application\\StaffBase.Application.csproj",
+        "packagesPath": "C:\\Users\\Mole\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.DataAccess\\StaffBase.DataAccess.csproj": {
+                "projectPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.DataAccess\\StaffBase.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\StaffBase.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\StaffBase.Core.csproj",
+        "projectName": "StaffBase.Core",
+        "projectPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\StaffBase.Core.csproj",
+        "packagesPath": "C:\\Users\\Mole\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.DataAccess\\StaffBase.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.DataAccess\\StaffBase.DataAccess.csproj",
+        "projectName": "StaffBase.DataAccess",
+        "projectPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.DataAccess\\StaffBase.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Mole\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\StaffBase.Core.csproj": {
+                "projectPath": "C:\\PROJECTS\\WEB\\StaffBase\\StaffBase.API\\StaffBase.Core\\StaffBase.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
